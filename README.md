@@ -21,3 +21,18 @@ My name is Santiago. I'm a music composer turned software engineer, mainly inter
 <img height="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
 <img height="50px" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png">
 <img height="50px" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+</br>
+
+# Contact me
+
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png
+
+[1]: https://www.linkedin.com/in/santiago-agust%C3%ADn-moreno-a82bb3222/
+
+[2.1]:https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
+
+[2]: mailto:smoreno98.dev@gmail.com
